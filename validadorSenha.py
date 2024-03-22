@@ -39,8 +39,8 @@ class Validador:
 
 
 def main():
-    nome1 = Validador("!Gustta37280")
-    nome2 = Validador("Gustta37280")
+    nome1 = Validador("!Abcde37280")
+    nome2 = Validador("Abcde37280")
 
     nome1.validadorDeSenha()
     nome2.validadorDeSenha()
